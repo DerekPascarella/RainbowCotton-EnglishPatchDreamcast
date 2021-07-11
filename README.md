@@ -15,15 +15,12 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | LEAD DEVELOPER / PROJECT LEAD:
 | Derek Pascarella (ateam)
 |
-| MAIN TRANSLATORS:
-| Chanh Nguyen (Burntends)
+| TRANSLATION:
 | Natsume38
-| Danthrax4
 |
-| ASSISTANT TRANSLATORS:
-| SnowyAria
-| khikari
-| ItsumoKnight
+| EDITING:
+| Chanh Nguyen (Burntends)
+| Danthrax4
 | Derek Pascarella (ateam)
 |
 | GRAPHICS:
@@ -38,6 +35,11 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | VincentNL
 | mrneo240
 | esperknight
+|
+| TRANSLATION ASSISTANCE:
+| SnowyAria
+| khikari
+| ItsumoKnight
 |
 `---------------------------------------------------
 

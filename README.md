@@ -63,7 +63,7 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | Another individual assisted in a very, very big way, too!  Patrick "TraynoCo" 
 | Traynor, who also lent his time to "Sakura Wars: Columns 2", took on the task 
 | of subtitling all of the FMVs.  From there, I was able to use SEGA's very own 
-| video encoding tool to create the final MPEG Sofdec video files (.SFD).  
+| video encoding tool to create the final MPEG Sofdec video files (.SFD).
 | These FMVs were pretty well animated and should be quite enjoyable for all of 
 | you players as you work your way through "Rainbow Cotton".
 |
@@ -78,7 +78,7 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | clearing each level!  All over graphics in the game were done by me 
 | personally.
 |
-| From a technical perspective, this game didn't pose too much of a challenge.  
+| From a technical perspective, this game didn't pose too much of a challenge.
 | It uses what seems to be a random one-off container format called "PLK" for 
 | which I wrote an extraction and rebuilding tool.  I included the binary and 
 | source code for these tools in this project's GitHub repository.  I'd like to 
@@ -96,7 +96,7 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | translation assistance, whether it be with identifying kanji in image 
 | textures, or helping with English localization suggestions.
 |
-| In closing, my last bit of thanks goes to the fantastic Dreamcast community.  
+| In closing, my last bit of thanks goes to the fantastic Dreamcast community.
 | Without our collective undying passion for SEGA's swan song console, projects 
 | like this one wouldn't exist.  May The Dream™ live on for many, many years 
 | to come!

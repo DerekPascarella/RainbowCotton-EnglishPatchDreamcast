@@ -50,7 +50,8 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | English translation patch for "Rainbow Cotton" on the SEGA Dreamcast!  This 
 | year (2021) has seen a number of official Cotton releases, including two 
 | translation patches (Saturn and Dreamcast).  Hopefully all you fans out there 
-| are loving it!
+| are loving it!  This patch comes to you 100% fully translated, including all
+| in-game text, graphics, and even subtitled FMVs!
 |
 | I was fortunate enough to work with the same team who helped me make "Sakura 
 | Wars: Columns 2" a reality: Natsume38, Chanh Nguyen (Burntends), and 

@@ -44,6 +44,29 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 `---------------------------------------------------
 
 
+.-----------::[ Patching Instructions ]::-----------
+|
+| The .DPC patch file shipped with this release is designed for use with
+| Universal Dreamcast Patcher:
+|
+| https://github.com/DerekPascarella/UniversalDreamcastPatcher
+|
+| Note that Universal Dreamcast Patcher supports both TOSEC-style GDI and
+| Redump-style CUE disc images as source input.
+|
+| 1) Click "Select GDI or CUE" to open the source disc image.
+|
+| 2) Click "Select Patch" to open the DCP patch file.
+|
+| 3) Click "Apply Patch" to generate the patched GDI.
+|    - The patched GDI will be generated in the folder from with the
+|      application is launched.
+|
+| 4) Click "Quit" to exit the application.
+|
+`---------------------------------------------------
+
+
 .------------::[ v1.0 Release Notes ]::-------------
 |
 | It is with extreme pride that I present to you all v1.0 of me and my team's 

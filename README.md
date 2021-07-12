@@ -46,7 +46,7 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 
 .-----------::[ Patching Instructions ]::-----------
 |
-| The .DPC patch file shipped with this release is designed for use with
+| The .DCP patch file shipped with this release is designed for use with
 | Universal Dreamcast Patcher:
 |
 | https://github.com/DerekPascarella/UniversalDreamcastPatcher

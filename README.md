@@ -102,13 +102,13 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | clearing each level!  All over graphics in the game were done by me 
 | personally.
 |
-| From a technical perspective, this game didn't pose too much of a challenge.
+| From a technical perspective, this game didn't pose too much of a challenge.  
 | It uses what seems to be a random one-off container format called "PLK" for 
 | which I wrote an extraction and rebuilding tool.  I included the binary and 
 | source code for these tools in this project's GitHub repository.  I'd like to 
-| thank esperknight for being the one to teach me how to work with files like 
-| these.  If not for him, I would have been banging my head against the wall a 
-| lot longer than I did!
+| thank esperknight for being the one to originally teach me how to work with
+| files like these.  If not for him, I would have been banging my head against
+| the wall a lot longer than I did!
 |
 | Outside of those PLKs, the only odd thing I encountered was some peculiarity 
 | with how the headers were stored for both PVR textures and PVM texture 

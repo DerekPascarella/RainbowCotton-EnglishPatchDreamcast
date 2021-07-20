@@ -5,10 +5,10 @@
 Rainbow Cotton
 English Translation v1.0
 Sega Dreamcast
-
+<br>
 Project Page:
 https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
-
+<br>
 
 .------------------::[ Credits ]::------------------
 |

@@ -7,7 +7,7 @@ English Translation v1.0
 Sega Dreamcast
 <br>
 Project Page:
-https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
+<a href="https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast">https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast</a>
 <br>
 
 .------------------::[ Credits ]::------------------

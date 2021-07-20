@@ -102,7 +102,7 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | clearing each level!  All over graphics in the game were done by me 
 | personally.
 |
-| From a technical perspective, this game didn't pose too much of a challenge.  
+| From a technical perspective, this game didn't pose too much of a challenge.
 | It uses what seems to be a random one-off container format called "PLK" for 
 | which I wrote an extraction and rebuilding tool.  I included the binary and 
 | source code for these tools in this project's GitHub repository.  I'd like to 

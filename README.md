@@ -85,11 +85,15 @@ Project Page:
 | translation and to ensure proper spelling and grammar.
 |
 | Another individual assisted in a very, very big way, too!  Patrick "TraynoCo" 
-| Traynor, who also lent his time to "Sakura Wars: Columns 2", took on the task 
-| of subtitling all of the FMVs.  From there, I was able to use SEGA's very own 
-| video encoding tool to create the final MPEG Sofdec video files (.SFD).
-| These FMVs were pretty well animated and should be quite enjoyable for all of 
-| you players as you work your way through "Rainbow Cotton".
+| Traynor, who also lent his time to "Sakura Wars: Columns 2", took on the
+| monumental task of subtitling all of the FMVs. For his efforts, I cannot thank
+| him enough. A huge part of delivering an English translation patch for "Rainbow
+| Cotton" was subtitling all 16 of the FMVs found throughout the game.
+|
+| From there, I was able to use SEGA's very own video encoding tool to create the
+| final MPEG Sofdec video files (.SFD). These FMVs were pretty well animated and
+| should be quite enjoyable for all of  you players as you work your way through
+| "Rainbow Cotton".
 |
 | Our project's last bit of major help came in the form of graphics work from 
 | khikari.  In between each level, a series of tiled images is displayed to the 

@@ -143,7 +143,7 @@ Project Page:
 |     20 37 2E 59
 |     00 00 00 02
 |
-|     Or, if you just want to see the cutscene FMVs, you can see them on this
+|     Or, if you just want to see the cutscene FMVs, you can watch them on this
 |     YouTube playlist here:
 |
 |       -> https://bit.ly/3ydCc0E

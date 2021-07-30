@@ -23,7 +23,7 @@ elsif($mencoder eq "")
 }
 else
 {
-	my $cmd = "$mencoder \"$input\" -ovc lavc -oac pcm -o \"$output\"";
+	my $cmd = "$mencoder \"$input\" -ovc lavc -oac pcm -o \"$output\" -af volume=+16db";
 
 	print "Executing:\n$cmd\n\n";
 

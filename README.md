@@ -129,6 +129,18 @@ Project Page:
 | like this one wouldn't exist.  May The Dream™ live on for many, many years 
 | to come!
 |
+| PS: There's no way I could have successfully and thoroughly play-tested this
+|     patch without the following invincibility code, which is compatible with
+|     CodeBreaker and probably all other cheat discs for Dreamcast.  If you just
+|     want to experience the story and cutscenes, this one's for you:
+|
+|     2A A7 2E 45
+|     00 00 00 01
+|     13 64 5B 8A
+|     00 00 00 04
+|     20 37 2E 59
+|     00 00 00 02
+|
 `---------------------------------------------------
 
 

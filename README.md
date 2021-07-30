@@ -1,5 +1,5 @@
 #### Download this patch in DCP format for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a>:
-  * <a href="https://xxxxxx">Rainbow Cotton (ENG v1.0).dcp</a>
+  * <a href="https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast/releases/download/1.0/Rainbow.Cotton.ENG.v1.0.dcp">Rainbow Cotton (ENG v1.0).dcp</a>
 <br>
 <pre>
 Rainbow Cotton

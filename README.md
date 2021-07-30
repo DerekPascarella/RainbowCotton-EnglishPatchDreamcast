@@ -74,7 +74,9 @@ Project Page:
 | year (2021) has seen a number of official Cotton releases, including two 
 | translation patches (Saturn and Dreamcast).  Hopefully all you fans out there 
 | are loving it!  This patch comes to you 100% fully translated, including all
-| in-game text, graphics, and even subtitled FMVs!
+| in-game text, graphics, and even subtitled FMVs!  As a side note, if you're
+| skipping all of the cutscenes as you play this game, then you're definitely
+| doing it wrong.
 |
 | I was fortunate enough to work with the same team who helped me make "Sakura 
 | Wars: Columns 2" a reality: Natsume38, Chanh Nguyen (Burntends), and 

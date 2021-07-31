@@ -4,7 +4,7 @@
 #
 # plk_build - PLK archive builder
 #
-# Usage: plk_build <PLK_FILE>
+# Usage: plk_build <SOURCE_FOLDER> <TARGET_PLK_FILE>
 
 use strict;
 use File::Path;

@@ -101,7 +101,7 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | Japanese text and rebuild the original images by hand.  This required a lot 
 | of pixel-by-pixel editing and the end result delivered to me were clean 
 | images to which I could add English text.  You'll see how it turned out after 
-| clearing each level!  All over graphics in the game were done by me 
+| clearing each level!  All other graphics in the game were done by me 
 | personally.
 |
 | From a technical perspective, this game didn't pose too much of a challenge.

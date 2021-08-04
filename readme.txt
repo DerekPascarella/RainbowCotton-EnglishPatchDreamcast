@@ -55,7 +55,7 @@ https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast
 | 2) Click "Select Patch" to open the .DCP patch file.
 |
 | 3) Click "Apply Patch" to generate the patched GDI.
-|    - The patched GDI will be generated in the folder from witch the
+|    - The patched GDI will be generated in the folder from which the
 |      application is launched.
 |
 | 4) Click "Quit" to exit the application.

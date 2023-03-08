@@ -94,7 +94,7 @@ Project Page:
 |
 | From there, I was able to use SEGA's very own video encoding tool to create the
 | final MPEG Sofdec video files (.SFD).  These FMVs were pretty well animated and
-| should be quite enjoyable for all of  you players as you work your way through
+| should be quite enjoyable for all of you players as you work your way through
 | "Rainbow Cotton".
 |
 | Our project's last bit of major help came in the form of graphics work from 
